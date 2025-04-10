@@ -31,3 +31,9 @@
 
 - Run `npm run test` to run the tests
 - Run `npm run coverage` to display the test coverage
+
+
+.env 
+PORT=3000
+DB_URL=postgresql://postgres.olhhgpbpmjdgaaqfecky:Password1234@aws-0-eu-west-2.pooler.supabase.com:6543/postgres
+DB_TEST_URL=postgresql://postgres.xrwsikclvrbkuvqhobjq:Password1234@aws-0-eu-west-2.pooler.supabase.com:6543/postgres
